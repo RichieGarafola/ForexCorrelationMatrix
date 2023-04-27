@@ -4,6 +4,8 @@ Forex trading involves buying and selling currencies to make a profit in the lar
 
 The Forex Correlation Matrix script is a tool designed to help Forex traders and investors analyze the correlation between different currency pairs. The script retrieves historical data using the tvDatafeed package and calculates the correlation matrix between selected pairs. The output of the script is a heatmap visualization of the correlation matrix, which can be used to identify patterns and trends between pairs. The tool is customizable, allowing users to select the pairs and time period they wish to analyze. By using this tool, traders and investors can make informed trading decisions by developing trading strategies and managing risk based on the correlations between currency pairs.
 
+**Deployed Streamlit App** https://forexcorrelationmatrix.streamlit.app/
+
 ---
 
 ## Requirements
